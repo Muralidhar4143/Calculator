@@ -53,6 +53,9 @@ button {
   color: #ffff;
   font-weight: 500;
 }
+button:hover{
+  color:red;
+}
 input:focus, input:active,
 button:focus, button:active{
   outline: none;
